@@ -1,2 +1,2 @@
 # T1-Arenas
-Código de Caso 2
+Código fuente de caso 2
